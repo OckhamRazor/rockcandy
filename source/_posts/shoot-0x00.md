@@ -5,6 +5,7 @@ tags:
 - 摄影
 categories:
 - Shoot
+thumbnail: http://p122m5r0o.bkt.clouddn.com/rockcandy%20shot.png
 ---
 
 # 0x00 不同色调物体搭配与强调关系
